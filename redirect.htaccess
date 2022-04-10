@@ -1,4 +1,0 @@
-Options +FollowSymLinks
-RewriteEngine On
-
-Redirect 301 /discord http://different-domain.com/
