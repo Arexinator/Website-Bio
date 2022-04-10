@@ -1,4 +1,0 @@
-Options +FollowSymLinks
-RewriteEngine On
-
-Redirect 301 /discord.php http://different-domain.com/
