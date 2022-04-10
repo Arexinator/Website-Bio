@@ -1,4 +1,4 @@
 Options +FollowSymLinks
 RewriteEngine On
 
-RedirectMatch 301 ^/discord/$ http://discord.fcsmp.ga/
+Redirect 301 /discord http://different-domain.com/
