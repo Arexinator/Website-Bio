@@ -1,8 +1,10 @@
-body{
-  margin: 0;
-  padding: 0;
-  background: url(background.jpg) no-repeat;
+body {
+  background-image: url("background.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
   background-size: cover;
+  height: 100%;
+  background-attachment: fixed;
 }
 .box{
   width: 450px;
