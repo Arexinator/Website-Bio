@@ -8,6 +8,15 @@
     --font: 'Karla', sans-serif;
     --delay: .3s;
 }
+.box2{
+    width: 1000px;
+    padding: 1px;
+    text-align: center;
+    margin: auto;
+    margin-top: 1%;
+    color: white;
+    font-family: 'Century Gothic',sans-serif;
+}
 .box{
     width: 400px;
     padding: 1px;
